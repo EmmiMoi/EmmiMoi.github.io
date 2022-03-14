@@ -538,7 +538,7 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  text-align: justify;
+  text-align: left;
   font-family: "Times New Roman", Times, serif;
 }
 
